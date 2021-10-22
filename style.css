@@ -107,6 +107,7 @@ header {
         max-width: 250px;
         padding: 100px 20px;
         flex-direction: column;
+        transition: 1s ease;
     }
 
     .menu.active {
